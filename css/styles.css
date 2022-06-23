@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+/* FOOTER */ /* FOOTER */ /* FOOTER */
+
+footer {
+    text-align: center;
+    background-color: #000;
+    color: rgb(184, 49, 0);;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    padding: 20px 0;
+    margin-top: 100px;
+}
+
+/* NAVBAR */ /* NAVBAR */ /* NAVBAR */
+
+.nav-div {
+    display: flex;
+    max-width: 100%;
+    background-color: #000;
+    padding: 25px;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    list-style: none;
+
+}
+
+.nav-link a {
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+    transition: .3s;
+    font-size: 14px;
+}
+
+.nav-link a:hover {
+    color: rgb(184, 49, 0);
+}
+
+.login {
+    position: absolute;
+    right: 50px;
+    color: white;
+    transition: .3s;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.login:hover {
+    color: rgb(184, 49, 0);
+}
+
+/* TITULO */ /* TITULO */ /* TITULO */
+
+#title-container {
+    color: rgb(184, 49, 0);
+    max-width: 100%;
+    text-align: center;
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+/* VIDEO CONTAINER */ 
+
+#video-container {
+    max-width: 600px;
+    margin: 0 auto;
+    align-items: center;
+
+    
+}
+
+/* LOGIN */  /* LOGIN */  /* LOGIN */  /* LOGIN */ 
+
+#main-container{
+    width: 500px;
+    max-width: 100%;
+    position: absolute;
+    left: 30%;
+    top: 30%;
+
+    border-radius: 7px;
+}
+
+
+
+.btn {
+    margin-top: 15px;
+}
