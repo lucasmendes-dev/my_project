@@ -88,12 +88,25 @@ footer {
     position: absolute;
     left: 30%;
     top: 30%;
-
-    border-radius: 7px;
 }
 
 
 
 .btn {
     margin-top: 15px;
+}
+
+.msg {
+    color: red;
+}
+
+.cadastro{
+    color: rgb(0, 83, 0);
+    background-color: rgb(185, 241, 188);
+    text-align: center;
+    border-radius: 5px;
+}
+
+.form-container {
+    margin-top: 5px;
 }

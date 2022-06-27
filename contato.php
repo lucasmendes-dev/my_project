@@ -2,9 +2,6 @@
     include_once('templates/header.php');
 ?>
 
-<main>
-
-</main>
 
 
 <?php

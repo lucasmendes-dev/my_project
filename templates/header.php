@@ -1,5 +1,5 @@
 <?php 
-    include_once("helpers/url.php");
+    include_once("config/url.php");
 ?>
 
 <!DOCTYPE html>

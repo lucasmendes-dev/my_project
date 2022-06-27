@@ -1,6 +1,6 @@
 <?php
     
-    include_once("data.php");
+    include_once("config/connection.php");
     include_once("templates/header.php");
 
     $autenticacao = false;
